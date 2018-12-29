@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crashpls",
+  "name": "Crash My Server",
+  "description": "Crashes the server after the 'Done!' message, intended for development",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HoldYourWaffle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
